@@ -1,1 +1,25 @@
 # exercicio008.py
+#Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+
+t = int(input('Digite um numero: '))
+a = (t*1)
+b = (t*2)
+c = (t*3)
+d = (t*4)
+e = (t*5)
+f = (t*6)
+g = (t*7)
+h = (t*8)
+i = (t*9)
+j = (t*10)
+
+print(t,'x 1 =', a)
+print(t,'x 2 =', b)
+print(t,'x 3 =', c)
+print(t,'x 4 =', d)
+print(t,'x 5 =', e)
+print(t,'x 6 =', f)
+print(t,'x 7 =', g)
+print(t,'x 8 =', h)
+print(t,'x 9 =', i)
+print(t,'x 10=', j)
